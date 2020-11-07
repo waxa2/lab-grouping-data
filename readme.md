@@ -23,7 +23,9 @@ Import the csv into Tableau and answer the following questions:
 
     <details>
       <summary> Click to see the image </summary>
+
       <br />
+
       ![Total participants by gender](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/6.2_lab/total_number_of_participants_by_gender.png)
 
     </details>
@@ -32,7 +34,9 @@ Import the csv into Tableau and answer the following questions:
 
     <details>
       <summary> Click to see the image </summary>
+
       <br />
+     
       ![Percentage total participants by gender](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/6.2_lab/percentage_total_participants_by_gender.png)
 
     </details>
@@ -43,7 +47,9 @@ Import the csv into Tableau and answer the following questions:
 
     <details>
       <summary> Click to see the image for step 1 </summary>
+
       <br />
+
       ![Create Groups](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/6.2_lab/create_groups.png)
 
     </details>
@@ -54,6 +60,7 @@ Import the csv into Tableau and answer the following questions:
 
     <details>
       <summary> Click to see the images </summary>
+
       <br />
 
       - Image 1:
@@ -61,8 +68,9 @@ Import the csv into Tableau and answer the following questions:
       ![Create Groups](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/6.2_lab/edit_group1.png)
 
       <br />
-      - Image 2:
       
+      - Image 2:
+
       ![Create Groups](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/6.2_lab/edit_group2.png)
 
     </details>
