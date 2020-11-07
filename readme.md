@@ -30,7 +30,7 @@ Import the csv into Tableau and answer the following questions:
 
     </details>
     
-4. Duplicate the previous sheet. Now the objective is to represent the number of participants by gender as percentage of totals. Use the appropriate quick table calculation for this. Round off the percentages to one decimal point. The final plot would look like this:
+4. Duplicate the previous sheet. Now the objective is to represent the number of participants by gender as percentage of totals. Use the appropriate quick table calculation for this. Round the percentages to one decimal point. The final plot would look like this:
 
     <details>
       <summary> Click to see the image </summary>
