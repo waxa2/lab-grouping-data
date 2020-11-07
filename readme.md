@@ -9,7 +9,13 @@ In this lab we will be working with `files_for_lab/abTesting.csv` file. Please r
 Import the csv into Tableau and answer the following questions:
 
 1. What is the distribution of number of participants at each stage for control variation and test variation? Please make sure that the process steps are in order. The final plot would look like this:
-    ![Participants at each stage](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/6.2_lab/participants_at_each_stage_control_vs_test.png =400x)
+<details>
+  <summary> Click to see image </summary>
+
+   ![Participants at each stage](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/6.2_lab/participants_at_each_stage_control_vs_test.png)
+   
+</details>
+   
 2. Now, we want to compare the total number of participants for each variation. Pay attention: can you take the sum of all the process steps or not?
 3. Duplicate the previous plot onto a new sheet. Now we want to find the total number of participants by gender, ie. what is the number of males and females in each variation. You can filter out the other gender categories present in the data? The final plot would look like this:
     ![Total participants by gender](https://education-team-2020.s3-eu-west-1.amazonaws.com/data-analytics/6.2_lab/total_number_of_participants_by_gender.png)
