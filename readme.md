@@ -17,12 +17,12 @@ Import the csv into Tableau and answer the following questions:
     ![Percentage total participants by gender](./files_for_lab/images/percentage_total_participants_by_gender.png)
 5. We have already seen how to group the data by making a new calculated field (using `IF...ELSE` conditional statement). Now we will create groups using the `create group` option in the Tableau. We will create different age groups and analyze the average balance for each group. Follow the steps:
 
-  - Click the down arrow on `clnt_age` in the dimensions pane on the left hand side. Go to create and select `groups`:
+    - Click the down arrow on `clnt_age` in the dimensions pane on the left hand side. Go to create and select `groups`:
       ![Create Groups](./files_for_lab/images/create_groups.png)
 
-  - Create the following groups: Age 17 to 30 , 31 to 40, 40 to 55, 55 to 70, and 70 and above
-  - Edit group names:
+    - Create the following groups: Age 17 to 30 , 31 to 40, 40 to 55, 55 to 70, and 70 and above
+    - Edit group names:
       ![Create Groups](./files_for_lab/images/editgroup1.png)
       ![Create Groups](./files_for_lab/images/editgroup2.png)
-  - Plot average balance for each group. Do you observe any trend?
+    - Plot average balance for each group. Do you observe any trend?
 
