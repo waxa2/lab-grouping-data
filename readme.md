@@ -1,8 +1,10 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
-# Lab | Top N analysis
+# Lab | Grouping Data
 
 In this lab we will be working with `files_for_lab/abTesting.csv` file. Please refer to the `case_study_ab_test.md` file to understand more about the data collected. The file also has description of the different data fields given in the csv file.
+
+Please make sure you save this notebook. We will use the results from this lab in the next lab (for LOD expressions). We will use this lab to prepare ourselves for the task in the next lab. 
 
 ### Instructions
 
